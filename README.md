@@ -24,6 +24,6 @@ Nếu độ lệch line là 0, chúng ta sẽ có các trường hợp sau:
 * 7 cảm biến đều nằm trên line -> dừng lại
 * Cảm biến 3/4/5 nằm trên line -> đi thẳng
 ## Danh hiệu và giải thưởng
-*4/2024 - 11/2024: Giải Khuyến Khích cuộc thi RoboGladiator, Khoa Điện - Điện tử
+4/2024 - 11/2024: Giải Khuyến Khích cuộc thi RoboGladiator, Khoa Điện - Điện tử
 
 
